@@ -17,3 +17,17 @@ int main()
     cout << "Tien =" << soluong * dongia << endl;
     cout << "Thue gia tri gia tang =" << tien * 10 / 100 << endl;
 }
+{
+	int a, b;
+	cout << "Nhap so a\n";
+	cin >> a;
+	cout << "Nhap so b\n";
+	cin >> b;
+
+	cout << "a + b = " << a + b << endl;
+	cout << "a - b = " << a - b << endl;
+	cout << "a * b = " << a * b << endl;
+	cout << "a / b = " << a / b << endl;
+    return 0;
+
+}
