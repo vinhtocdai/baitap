@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\vinhp\source\repos\soChinhPhuong\soChinhPhuong\Main.cpp(9,20): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Source.cpp
+  Generating Code...
+  soChinhPhuong.vcxproj -> C:\Users\vinhp\source\repos\soChinhPhuong\Debug\soChinhPhuong.exe
