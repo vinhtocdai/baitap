@@ -1,6 +1,6 @@
 #include "Header.h"
 
-void nhap(HinhTron& ht)
+void nhap(HinhTron &ht)
 {
 	cout << "Nhap ban kinh: ";
 	cin >> ht.BanKinh;
