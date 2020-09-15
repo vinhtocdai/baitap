@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Source.cpp
+C:\Users\vinhp\source\repos\xeploaihocsinh\xeploaihocsinh\Source.cpp(27,23): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\vinhp\source\repos\xeploaihocsinh\xeploaihocsinh\Source.cpp(29,23): warning C4804: '>': unsafe use of type 'bool' in operation
+  Generating Code...
+  xeploaihocsinh.vcxproj -> C:\Users\vinhp\source\repos\xeploaihocsinh\Debug\xeploaihocsinh.exe
