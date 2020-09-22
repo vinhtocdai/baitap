@@ -8,7 +8,7 @@ int main()
 	cin >> n;
 	while (n <= 1)
 	{
-		cout << "Vui long nhap n > 1 !!";
+		cout << "Vui long nhap n > 1 !!" << endl;
 		cout << "Nhap n: ";
 		cin >> n;
 	}
