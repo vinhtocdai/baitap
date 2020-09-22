@@ -6,7 +6,7 @@ int main()
 	float n, s = 0;
 	cout << "Nhap n: ";
 	cin >> n;
-	while (n < 1)
+	while (n <= 1)
 	{
 		cout << "Vui long nhap n > 1 !!";
 		cout << "Nhap n: ";
