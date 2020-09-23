@@ -14,7 +14,7 @@ int main()
 	}
 	for (float i = 2; i <= n; i++)
 	{
-		s = s + 1 / i;
+		s = s + 1.0 / i;
 	}
 	cout << "Tong la: " << s << endl;
 
